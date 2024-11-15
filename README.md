@@ -1,6 +1,6 @@
 ## I'm turpan! 👋
 
-I'm a National Institute of Technology student
+I'm a National Institute of Technology student<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=turpan9076&show_icons=true&locale=en&layout=compact)
 
 ## Programming Languages
