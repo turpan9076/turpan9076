@@ -4,7 +4,7 @@ I'm a student<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=turpan9076&show_icons=true&locale=en&layout=compact&theme=transparent)
 
 ## Programming Languages
-![](https://skillicons.dev/icons?i=c,python,latex)
+![](https://skillicons.dev/icons?i=c,python,r,latex)
 
 <!--
 **turpan9076/turpan9076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
