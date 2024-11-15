@@ -1,6 +1,8 @@
 ## I'm turpan! 👋
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=turpan9076&show_icons=true&locale=en&layout=compact)
+
+### Programming Languages
 ![](https://skillicons.dev/icons?i=latex,c,python,html,css,js)
 
 <!--
