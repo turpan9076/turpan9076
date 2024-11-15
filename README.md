@@ -1,6 +1,7 @@
 ## I'm turpan! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turpan9076&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/turpan9076/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=turpan9076&show_icons=true&locale=en&layout=compact)
+![](https://skillicons.dev/icons?i=latex,c,python,html,css,js)
 
 <!--
 **turpan9076/turpan9076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
