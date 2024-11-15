@@ -1,10 +1,10 @@
 ## I'm turpan! 👋
 
 I'm a National Institute of Technology student<br>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=turpan9076&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=turpan9076&show_icons=true&locale=en&layout=compact&theme=transparent)
 
 ## Programming Languages
-![](https://skillicons.dev/icons?i=latex,c,python,html,css,js)
+![](https://skillicons.dev/icons?i=c,python,latex)
 
 <!--
 **turpan9076/turpan9076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
