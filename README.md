@@ -1,7 +1,7 @@
 ## I'm turpan! 👋
 
 I'm a student<br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=turpan9076&show_icons=true&locale=en&layout=compact&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=turpan9076&show_icons=true&locale=ja&layout=compact&title_color=9d5b8b&theme=transparent)
 
 ## Programming Languages
 ![](https://skillicons.dev/icons?i=c,python,html,css,js,r,latex)
