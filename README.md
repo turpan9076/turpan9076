@@ -1,6 +1,6 @@
 ## I'm turpan! 👋
 
-I'm a student<br><br>
+`I'm a college student`<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=turpan9076&show_icons=true&locale=en&layout=compact&title_color=55295b&theme=transparent)
 
 ## Programming Languages
